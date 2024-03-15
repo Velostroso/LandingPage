@@ -57,3 +57,26 @@ main {
     margin-top: 10px;
 }
 
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+a {
+    color: white;
+    font-weight: 600;
+    font-family:'Poppins', sans-serif;
+}
+
+a:hover {
+    color: red;
+    transition: 0.3s all;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+
